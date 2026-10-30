@@ -182,6 +182,24 @@
             <mxPoint x="690" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="U96EbJyNitSxL9y3nzb3-29" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=page;" target="U96EbJyNitSxL9y3nzb3-3" value="Zahlungsaufforderung">
+          <mxGeometry relative="1" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="279.9999999999998" y="520" />
+            </Array>
+            <mxPoint x="320" y="520" as="sourcePoint" />
+            <mxPoint x="240" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U96EbJyNitSxL9y3nzb3-30" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=page;" target="U96EbJyNitSxL9y3nzb3-2" value="Bestellte Ware bezahlen">
+          <mxGeometry relative="1" width="80" y="-10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points" />
+            <mxPoint x="140" y="570" as="sourcePoint" />
+            <mxPoint x="220" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
